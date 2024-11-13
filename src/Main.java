@@ -9,11 +9,11 @@ public class Main {
         short skillet = 150;
         long ledZeppelin = 15000;
         float fallOutBoy = 1.5f;
-        System.out.println(imagine);
-        System.out.println(dragons);
-        System.out.println(ledZeppelin);
-        System.out.println(skillet);
-        System.out.println(fallOutBoy);
+        System.out.println("Значение переменной imagine с типом int, равно " + imagine);
+        System.out.println("Значение переменной dragons с типом double, равно " + dragons);
+        System.out.println("Значение переменной ledZepplin с типом long, равно " + ledZeppelin);
+        System.out.println("Значение переменной skillet с типом short, равно " + skillet);
+        System.out.println("Значение переменной fallOutBoy с типом float, равно " + fallOutBoy);
 
         System.out.println();
 
